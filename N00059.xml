@@ -108,8 +108,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000099_0000_0FA027FD86749A68"/>
-            <pb facs="tcp:000099_0001_0FA027FEB1803DC0" rendition="simple:additions"/>
+            <pb facs="unknown:000099_0000_0FA027FD86749A68"/>
+            <pb facs="unknown:000099_0001_0FA027FEB1803DC0"
+                rendition="simple:additions"/>
             <p>AN ASTRONOMICAL DESCRIPTION OF THE LATE COMET OR BLAZING STAR, As it appeared in <hi>New-England</hi> in the 9<hi rend="sup">th,</hi> 10<hi rend="sup">th,</hi> 11<hi rend="sup">th,</hi> and in the beginning of the 12<hi rend="sup">th</hi> 
                <hi>Moneth,</hi> 1664.</p>
             <p>TOGETHER With a brief <hi>Theological Application</hi> thereof.</p>
@@ -129,7 +130,7 @@
             <p>CAMBRIDGE Printed by <hi>Samuel Green,</hi> 1665.</p>
          </div>
          <div type="poem">
-            <pb facs="tcp:000099_0002_0FA027FEF51D7150"/>
+            <pb facs="unknown:000099_0002_0FA027FEF51D7150"/>
             <head>DUBARTAS.</head>
             <l>There, with long bloody Hair, a Blazing Star</l>
             <l>Threatens the World with Famine, Plague &amp; War:</l>
@@ -141,7 +142,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:000099_0003_0FA028003556A5D8"/>
+            <pb facs="unknown:000099_0003_0FA028003556A5D8"/>
             <head>AN ASTRONOMICAL DESCRIPTION OF THE LATE COMET, As it appeared in <hi>New-England.</hi>
             </head>
             <p n="1">1. <hi>
@@ -154,7 +155,7 @@
                   </gap>n,</hi> some bigger then the <hi>Moon,</hi> yea some bigger then the <hi>Earth.</hi> The exact Dimensions of this Comet, I may not presume to determine, but it seemeth not to be of the smallest size. Now 'tis not easy to imagine how the <hi>Earth</hi> should afford matter for a <hi>M<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>eor</hi> of such a huge magnitude, except we grant the greater part of the lower World
-<pb n="2" facs="tcp:000099_0004_0FA028006E193178"/>
+<pb n="2" facs="unknown:000099_0004_0FA028006E193178"/>
 to be turned into an exhalation. 2. <hi>By the smalness of it's Parallax.</hi> The Parallax is the Distance between the <hi>true</hi> place of a <hi>Planet</hi> and the <hi>apparent.</hi> The lower and neerer any <hi>Planet</hi> is to the Earth, it hath the greater <hi>Parallax.</hi> The Moon's <hi>Parallax</hi> in her <hi>Perige,</hi> is one d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>gree and six minutes. I could not by my Observation discerne that this Comet had any considerable <hi>Parallax.</hi> 3. <hi>By it's large ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -219,7 +220,7 @@ to be turned into an exhalation. 2. <hi>By the smalness of it's Parallax.</hi> T
                </gap>ld it. <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> this
-<pb n="3" facs="tcp:000099_0005_0FA0280949052C70"/>
+<pb n="3" facs="unknown:000099_0005_0FA0280949052C70"/>
                <hi>Comet</hi> was created in the beginning of the World together with the rest of the <hi>Sta<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s,</hi> and hath been hidden in the height and profundity of the <hi>H<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -263,7 +264,7 @@ to be turned into an exhalation. 2. <hi>By the smalness of it's Parallax.</hi> T
             <p>A <hi>Comet</hi> is denominated from it's <hi>Coma</hi> or Bush<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> lock for the Stream hath some resem<g ref="char:EOLhyphen"/>blance of a lock of hair. Now this Stream is not the <hi>flagrancy of the Comet,</hi> but the <hi>Beames of
-<pb n="4" facs="tcp:000099_0006_0FA0280A93EAADB8"/>
+<pb n="4" facs="unknown:000099_0006_0FA0280A93EAADB8"/>
 the Sun</hi> shining through the <hi>Diaphanous</hi> and Tr<gap reason="illegible" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> 
@@ -328,7 +329,7 @@ the Sun</hi> shining through the <hi>Diaphanous</hi> and Tr<gap reason="illegibl
                   </gap>ation.</hi> Had it been a real and natural flame, it is difficult to understand how the head of the <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>met</hi> could have supplied it with food and fuel for so many months together. Obj, <hi>If the Stream be an
-<pb n="5" facs="tcp:000099_0007_0FA0280C2E10ADC8"/>
+<pb n="5" facs="unknown:000099_0007_0FA0280C2E10ADC8"/>
 irradiation of the Sun, how comes it to be conspicuous and visible to us</hi>? The Sun-beame<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> p<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -370,7 +371,7 @@ irradiation of the Sun, how comes it to be conspicuous and visible to us</hi>? T
                      <desc>•</desc>
                   </gap>
                </hi> Anno 1572. which continued a year and four
-<pb n="6" facs="tcp:000099_0008_0FA0280DB60B3868"/>
+<pb n="6" facs="unknown:000099_0008_0FA0280DB60B3868"/>
 months. Another in <hi>Antinous</hi>: another in the <hi>Gira<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>e</hi> of <hi>Anaromeda,</hi> another in the <hi>Whale,</hi> another in the <hi>Brest of the Swan,</hi> which con<g ref="char:EOLhyphen"/>tinued m<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -398,7 +399,7 @@ months. Another in <hi>Antinous</hi>: another in the <hi>Gira<gap reason="illegi
                   </gap>ism</hi> of <hi>Co<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>us,</hi> (as I gather from it's following motions) before I saw it. <hi>Dec.</hi> 5 early in the morning it seemed to me to be very neer the <hi>Southern Tro<g ref="char:EOLhyphen"/>pick,</hi> about 3 degrees southward of the <hi>Ravens hill</hi> having longit. <hi>Lib.</hi> 4. <hi>Dec.</hi> 8 early in the morning I saw it in some part of <hi>Hydra</hi>;
-<pb n="7" facs="tcp:000099_0009_0FA0280E09F3DA00"/>
+<pb n="7" facs="unknown:000099_0009_0FA0280E09F3DA00"/>
 in <hi>Virgo</hi> 28. lat. <hi>S.</hi> 30 <hi>gr.</hi> The stream over<g ref="char:EOLhyphen"/>shadowing a small star in <hi>Hydra,</hi> that was neer. <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>c.</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -428,7 +429,7 @@ in <hi>Virgo</hi> 28. lat. <hi>S.</hi> 30 <hi>gr.</hi> The stream over<g ref="ch
                   </gap>e</hi>: in <hi>Taur.</hi> 3. lat. <hi>S.</hi> 6. <hi>Jan.</hi> 3 It crossed the <hi>Ecliptick in</hi> Aries 28.30. <hi>Jan.</hi> 16. it came to A<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>es 26. lat. <hi>N.</hi> 3. <hi>Jan.</hi> 24. Aries 25. lat. <hi>N.</hi> 4. <hi>Jan.</hi> 31. Aries 25. lat. <hi>N.</hi> 5.30. <hi>Feb.</hi> 4.
-<pb n="8" facs="tcp:000099_0010_0FA0280EAF413AA0"/>
+<pb n="8" facs="unknown:000099_0010_0FA0280EAF413AA0"/>
 Aries 25. lat. <hi>N.</hi> 6.15. Since that I saw it not, nor any man else, that I hear of<g ref="char:punc">▪</g> If in these observations I have not attained that <hi>
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -522,7 +523,7 @@ Aries 25. lat. <hi>N.</hi> 6.15. Since that I saw it not, nor any man else, that
                   <desc>〈◊〉</desc>
                </gap> 
                <hi>motion,</hi> especially
-<pb n="9" facs="tcp:000099_0011_0FA0280F754C93B8"/>
+<pb n="9" facs="unknown:000099_0011_0FA0280F754C93B8"/>
 when it was so exceeding swift, because I know not certainly the hour of one night, when these ob<g ref="char:EOLhyphen"/>servations were mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>.] From <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -611,7 +612,7 @@ when it was so exceeding swift, because I know not certainly the hour of one nig
                   </gap>al Glob<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</hi> Depress the Southern Pole 61 <hi>degr.</hi> (which is the complement of the <hi>Comet's</hi> greatest decli<g ref="char:EOLhyphen"/>nation,)
-<pb n="10" facs="tcp:000099_0012_0FA028102A7AC568"/>
+<pb n="10" facs="unknown:000099_0012_0FA028102A7AC568"/>
 and you may finde almost all the fore<g ref="char:EOLhyphen"/>mentioned observations concerning the <hi>Comets</hi> place to fall just upon the <hi>Horizon of the Globe:</hi> but toward the latter end, you shall finde the <hi>Co<g ref="char:EOLhyphen"/>meticall line</hi> to recede a little from a <hi>true circle.</hi>
             </p>
             <p n="10">X. <hi>The proper Circle of the Comets motion is Ec<g ref="char:EOLhyphen"/>centrical, i e. it hath a center diverse from the cen<g ref="char:EOLhyphen"/>ter of the world.</hi>
@@ -648,7 +649,7 @@ and you may finde almost all the fore<g ref="char:EOLhyphen"/>mentioned observat
                   <g ref="char:EOLhyphen"/>form.</hi>
             </p>
             <p>That it's apparent motion was <hi>unequal</hi> and <hi>irregular</hi> is manifest by it's <hi>Velocity</hi> or <hi>swiftnes</hi> one
-<pb n="11" facs="tcp:000099_0013_0FA028118FE4A250"/>
+<pb n="11" facs="unknown:000099_0013_0FA028118FE4A250"/>
 while, it's <hi>mediocrity</hi> another while, and it's <hi>tardi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>y</hi> or <hi>slowness</hi> toward the latter end. The cause of which <hi>anomaly</hi> and <hi>inequality,</hi> was the <hi>Comet's Eccentricity.</hi> That the <hi>Comet's</hi> motion in it's proper orb or circle<g ref="char:punc">▪</g> was very neer equal and uniform, may be demonstrated by the equality of it's <hi>diurnal motion</hi> in equal distances from it's <hi>perige.</hi> For instance, I finde on the 5<hi>th</hi> of De<g ref="char:EOLhyphen"/>cember and on the 25<hi>th,</hi> the <hi>Comet</hi> was equally distant from it's <hi>Perige,</hi> and that then it's appa<g ref="char:EOLhyphen"/>rent motion was equal, <hi>viz.</hi> 2 <hi>degrees</hi> and a halfe in a day: and therefore it's true motion in re<g ref="char:EOLhyphen"/>ference to it's own proper center was very neer equal and regular.</p>
@@ -658,7 +659,7 @@ while, it's <hi>mediocrity</hi> another while, and it's <hi>tardi<gap reason="il
                </gap>. from the <hi>Equality of it's apparent m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>tion</hi> in equal distances from thence: An instance wherof
-<pb n="12" facs="tcp:000099_0014_0FA02811DD0B8430"/>
+<pb n="12" facs="unknown:000099_0014_0FA02811DD0B8430"/>
 I gave before. 3<g ref="char:punc">▪</g> Fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> the <hi>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -733,7 +734,7 @@ I gave before. 3<g ref="char:punc">▪</g> Fro<gap reason="illegible" resp="#PDC
                   </gap>ll,</hi> at length it appeared far <hi>grea<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>,</hi> sometime it seem<g ref="char:EOLhyphen"/>ed to be very neer halfe as big as the <hi>Moon</hi>:
-<pb n="13" facs="tcp:000099_0015_0FA028127060B848"/>
+<pb n="13" facs="unknown:000099_0015_0FA028127060B848"/>
 after that it decreased successively, till at last it appeared like a cloudy star. The Reason wher<g ref="char:EOLhyphen"/>of is evid<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nt; at it's first appearance it was very high in the Heavens, and ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -816,7 +817,7 @@ after that it decreased successively, till at last it appeared like a cloudy sta
                      <desc>••</desc>
                   </gap>
                   <g ref="char:EOLhyphen"/>diation</hi> was from the <hi>South,</hi> it's streaming was toward the <hi>north,</hi> when it's <hi>irradiation</hi> was from S.S.W. it's streaming was toward N.N.E. when
-<pb n="14" facs="tcp:000099_0016_0FA028134341A228"/>
+<pb n="14" facs="unknown:000099_0016_0FA028134341A228"/>
 it's <hi>irradiation</hi> was from the <hi>S.W.</hi> it's streaming was toward <hi>N.E.</hi>
             </p>
             <p n="21">XXI. <hi>The Comet in respect of it's stream, hath been of a diverse figure according to the diverse as<g ref="char:EOLhyphen"/>pect of the Sun.</hi>
@@ -842,7 +843,7 @@ it's <hi>irradiation</hi> was from the <hi>S.W.</hi> it's streaming was toward <
                <hi>XXII. The stream hath appeared of a diverse height, breadth and extent, according to the diverse position of the Sun, and the Comet's distance from us.</hi>
             </p>
             <p>The stream was not alwaies of the same height in the Heavens with the head of the <hi>Comet,</hi> but sometimes <hi>higher,</hi> and sometimes <hi>lower.</hi> Neither was the <hi>dilatation</hi> of the stream alwaies one and the same, but it was sometimes <hi>broader,</hi> and some<g ref="char:EOLhyphen"/>times
-<pb n="15" facs="tcp:000099_0017_0FA028146B7B2638"/>
+<pb n="15" facs="unknown:000099_0017_0FA028146B7B2638"/>
                <hi>nar<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ower.</hi> The <hi>length</hi> and <hi>extent</hi> of the stream was also <hi>diverse: Dec</hi>: 8. It was apprehen<g ref="char:EOLhyphen"/>ded to be 38 <hi>degr.</hi> long. <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -898,7 +899,7 @@ it's <hi>irradiation</hi> was from the <hi>S.W.</hi> it's streaming was toward <
             <p>If the Comet be no vapour but a <hi>celestial plane<g ref="char:EOLhyphen"/>tick lumin<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>y,</hi> moving constantly in it's <hi>Eccentrick orb,</hi> and if the stream thereof be no real flame, but the <hi>irradiation</hi> of the <hi>Sun</hi> through the Co<g ref="char:EOLhyphen"/>met's <hi>head,</hi> it will necessarily follow that the Co<g ref="char:EOLhyphen"/>met is not <hi>consumed, dissipated</hi> or <hi>extinguished,</hi> but
-<pb n="16" facs="tcp:000099_0018_0FA02814AFFDB888"/>
+<pb n="16" facs="unknown:000099_0018_0FA02814AFFDB888"/>
 rather <hi>ascended</hi> toward it's <hi>Apoge, i. e.</hi> the farthest point distant from the Earth, and so being buried in the <hi>deep abyss</hi> of the Heavens, becomes inconspicuous to us.</p>
             <p n="26">XXVI. <hi>This</hi> Comet <hi>hath followed upon a notable Conjunction of the Superiour Planets,</hi> Saturn <hi>and</hi> Jupiter.</p>
             <p>
@@ -924,7 +925,7 @@ rather <hi>ascended</hi> toward it's <hi>Apoge, i. e.</hi> the farthest point di
                      <desc>•</desc>
                   </gap>k. The Sun shall be turned into Darkness and the Moon into Blood before the great and notable day of the Lord come.</p>
                <p n="2">II. <hi>The Histories of former Ages, do abundantly
-<pb n="17" facs="tcp:000099_0019_0FA0281661910C50"/>
+<pb n="17" facs="unknown:000099_0019_0FA0281661910C50"/>
 testifie that</hi> Comets <hi>have been many times Herald<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> of wrath to a secure and impenitent World.</hi>
@@ -955,7 +956,7 @@ testifie that</hi> Comets <hi>have been many times Herald<gap reason="illegible"
                <p>
                   <hi>Anno</hi> 814. A terrible Comet appeared before
 <pb n="18"
-                      facs="tcp:000099_0020_0FA02816EF088700"
+                      facs="unknown:000099_0020_0FA02816EF088700"
                       rendition="simple:additions"/>
 the death of <hi>Charles the great.</hi>
                </p>
@@ -1007,7 +1008,7 @@ the death of <hi>Charles the great.</hi>
                      <desc>•</desc>
                   </gap>ld. But not long after, <hi>Vespasian</hi> died.</p>
                <p n="3">
-                  <pb n="19" facs="tcp:000099_0021_0FA028183737F0C8"/>
+                  <pb n="19" facs="unknown:000099_0021_0FA028183737F0C8"/>
                   <hi>III. The Commination of wrath according to Scripture, is to be understood after a conditional manner,</hi> i e. <hi>wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>h an implicite reservation for Gods altering a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1058,7 +1059,7 @@ the death of <hi>Charles the great.</hi>
                <p n="1">1. <hi>Earth-quakes.</hi> About two years ago <hi>viz. Ian.</hi> 26, <hi>&amp;</hi> 28· 1662, 63. The founda<g ref="char:EOLhyphen"/>tions of the Earth trembled, and some of our houses rock't like a cradle. 6, or 7 times did the Earth shake under us in the space of 2 or 3 dayes. It was then thought and said, that these <hi>Earth-quakes</hi> might portend the Lords shaking the foundations of our Churches and of our civil state.</p>
                <p n="2">
                   <pb n="20"
-                      facs="tcp:000099_0022_0FA02818651E51C0"
+                      facs="unknown:000099_0022_0FA02818651E51C0"
                       rendition="simple:additions"/>2. The late <hi>removal by Death</hi> of some of our eminent <hi>Prophets</hi> and <hi>seers,</hi> who were as eyes unto us in the Wilderness, and the <hi>Charets</hi> of <hi>Israel</hi> and the <hi>Horse-men</hi> thereof. <hi>April.</hi> 5<hi>th,</hi> 1663, That burning and shining Light, who shone in the Church of <hi>Boston,</hi> and gave light to the whole Colony and Country. Mr. <hi>John Norton,</hi> a man eminently accomplished, was taken from us, and translated to an higher Orb. Of whom <hi>New-England</hi> was not worthy.</p>
                <p>
                   <hi>Iuly</hi> 20 1663. That bright and radiant Star, a Star of the first magnitude, Mr. <hi>Samuel Stone,</hi> the strength and glory of <hi>Connecticut,</hi> rested from his labours and sorrows, and fell a sleep sweetly and placidly in the Lord. A little before Him, Mr <hi>Iohn Miller</hi> and Mr. <hi>Samuel Newman,</hi> faithful, painful and affectionate Preachers of the Gospel, were also taken from us by death. Thus our Pillars are cut down, our strongest Stakes pluck't up, and our breaches not repaired. Is it a small thing in our eyes, y<hi rend="sup">t</hi> our principal Congregations &amp; Head-townes, should be so sadly bereaved, as they are at this day?</p>
@@ -1067,7 +1068,7 @@ the death of <hi>Charles the great.</hi>
                      <desc>•</desc>
                   </gap> Pastures and the latter growth.</p>
                <p n="5">
-                  <pb n="21" facs="tcp:000099_0023_0FA0281BC1B1DE50"/>5. Early <hi>Frosts,</hi> which smote our <hi>Indian Corn,</hi> and greatly impoverished our latter harvest.</p>
+                  <pb n="21" facs="unknown:000099_0023_0FA0281BC1B1DE50"/>5. Early <hi>Frosts,</hi> which smote our <hi>Indian Corn,</hi> and greatly impoverished our latter harvest.</p>
                <p>Unto these and some other no less threatning Visitations<g ref="char:punc">▪</g> is superadded this strange and fearful Appearance in the Heavens, which is now se<g ref="char:EOLhyphen"/>conded by a new Appearance th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s Spring, con<g ref="char:EOLhyphen"/>comitant to the translation of our Honoured and Aged Governour, Mr. <hi>Joh<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1091,7 +1092,7 @@ the death of <hi>Charles the great.</hi>
                <p n="2">2. What the Lord expects and looks for from a people so highly favoured and priviledged, and so awfully warned and threatned. <hi>Zeph.</hi> 3.7. I said surely thou wilt fear mee; thou wilt receive Instruction: so their dwelling place should not be cut off; howsoever I puni<g ref="char:EOLhyphen"/>shed them.</p>
                <p n="3">3. How sadly will the Lord Jesus expostulate with us, if we fall asleep in the hour of the Passion and Agony of the Gospel. <hi>Mat.</hi> 26.40. He cometh unto the Disciples and findeth them a sleep, and saith unto <hi>Peter,</hi> what could ye not watch with me one hour? each word is very Emphatical.</p>
                <p n="4">4. The danger of being surprized by temp<g ref="char:EOLhyphen"/>tation before we are aware. <hi>Lam.</hi> 1.9. She
-<pb n="22" facs="tcp:000099_0024_0FA0281D09CF7598"/>
+<pb n="22" facs="unknown:000099_0024_0FA0281D09CF7598"/>
 Remembred not her last end, therefore she c<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>me down wonder<g ref="char:EOLhyphen"/>fully: she had no comforter. <hi>Rev.</hi> 16.15. Behold I come as a thief. Bl<gap reason="illegible" resp="#PDCC" extent="3 letters">
